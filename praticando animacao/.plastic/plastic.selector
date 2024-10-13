@@ -1,0 +1,4 @@
+repository "praticando animacao@enzovpavesi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
