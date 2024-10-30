@@ -1,4 +1,3 @@
-repository "praticando animacao@enzovpavesi@cloud"
+rep "praticando animacao@enzovpavesi@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"
